@@ -8,7 +8,7 @@
 
 I'm just some techno-nerd on the internet. There's techno-babble source code, abandoned vapourware source code and placeholder repositories, weird strange odd source code, and a whole bunch of hidden private source code.
 
-(I'll get around to cleaning up the private source code repositories and setting them to public eventually!...maybe...if I get it...don't depend on it...ya...)
+(I'll get around to cleaning up the private source code repositories and setting them to public eventually!...maybe...if I get to it...don't depend on it...ya...)
 
 ---
 
