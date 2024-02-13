@@ -17,14 +17,7 @@ I'm just some techno-nerd on the internet. There's techno-babble source code, ab
 No. Hyperlinks.
 
 * <a href="https://www.1r1s.gg/">www.1r1s.gg: the personal website of Marisa Marion Mackenzie</a>
-* <a href="https://github.com/marisaintheflesh">@marisaintheflesh on GitHub</a>
-* <a href="https://www.youtube.com/@marisaintheflesh">@marisaintheflesh on YouTube</a>
-* <a href="https://facebook.com/marisaintheflesh">@marisaintheflesh on Facebook</a>
-* <a href="https://instagram.com/marisaintheflesh">@marisaintheflesh on Instagram</a>
-* <a href="https://twitter.com/marisaoneRoneS">@marisaoneRoneS on X/Twitter</a>
-* <a href="https://marisaintheflesh.tumblr.com">@marisaintheflesh on Tumblr</a>
-* <a href="https://soundcloud.com/marisaintheflesh">@marisaintheflesh on SoundCloud</a>
-* <a href="https://twitch.tv/marisaintheflesh">@marisaintheflesh on Twitch</a>
+* <a href="https://www.1r1s.gg/links/">Marisa's Hyperlinks @ www.1r1s.gg</a>
 
 ---
 
