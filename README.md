@@ -17,7 +17,7 @@ I'm just some techno-nerd on the internet. There's techno-babble source code, ab
 No. Hyperlinks.
 
 * <a href="https://www.1r1s.gg/">www.1r1s.gg: the personal website of Marisa Marion Mackenzie</a>
-* <a href="https://www.1r1s.gg/links/">Marisa's Hyperlinks @ www.1r1s.gg</a>
+* <a href="https://www.1r1s.gg/#hyperlinks">Marisa's Hyperlinks @ www.1r1s.gg</a>
 
 ---
 
